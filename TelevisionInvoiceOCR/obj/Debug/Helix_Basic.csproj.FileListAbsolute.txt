@@ -1,0 +1,175 @@
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.3\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.4\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.11\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe.config
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Helix_Basic.pdb
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.exe
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\TelevisionInvoiceOCR\obj\Debug\Helix_Basic.pdb

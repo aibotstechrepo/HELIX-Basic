@@ -1,0 +1,85 @@
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe.config
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.pdb
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csprojAssemblyReference.cache
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Properties.Resources.resources
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.GenerateResource.cache
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CoreCompileInputs.cache
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.exe
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.pdb
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CopyComplete
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\Python\Tabula\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe.config
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.pdb
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.Modules.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.SQLite.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.Wpf.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.Modules.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.SQLite.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\IronPython.Wpf.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.exe
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.1\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.pdb
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe.config
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.exe
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\TelevisionInvoiceOCR.pdb
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.Modules.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.SQLite.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.Wpf.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\itextsharp.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.Modules.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.SQLite.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\IronPython.Wpf.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\itextsharp.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\Interop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.ResolveComReference.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.DebugForm.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Form1.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.Properties.Resources.resources
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.GenerateResource.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.exe
+D:\Project\DotNet\AI Bots OCR\ITC Templatised  OCR 1.0.2\TelevisionInvoiceOCR\obj\Debug\TelevisionInvoiceOCR.pdb

@@ -1,0 +1,86 @@
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.5\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.7\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.8\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.9\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.14\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\office.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\bin\Debug\office.xml
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\HELIX(itc media) Basic 1.0.15\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\bin\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\bin\Debug\CLI_Wrapper.pdb
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\bin\Debug\stdole.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\obj\Debug\CLI_Wrapper.csprojAssemblyReference.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CoreCompileInputs.cache
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\obj\Debug\CLI_Wrapper.csproj.CopyComplete
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\obj\Debug\CLI_Wrapper.dll
+D:\Project\DotNet\AI Bots OCR\POC\HELIX Basic\CLI_Wrapper\obj\Debug\CLI_Wrapper.pdb
